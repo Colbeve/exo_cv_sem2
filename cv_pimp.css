@@ -1,0 +1,47 @@
+p
+{
+    color: blue;
+    text-align: center;
+    box-shadow: 8px 6px 4px blue;
+    background-color: aqua;
+}
+h1
+{
+    color: rgb(32, 32, 138);
+    box-shadow: 6px 6px 6px #131d75;
+    text-align: center
+}
+p1
+{
+
+    text-align: center;
+}
+ul
+{
+    border: 20px rgb(105, 4, 199) double;
+    box-shadow: 8px 6px 4px limegreen;
+
+}
+body
+{
+    background-image: url("img/marg.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+p2
+{
+    text-align: center;
+    color: rgb(31, 196, 10);
+    font-weight: bolder;
+}
+h2
+{
+    text-shadow: 5px 7px 9px rgb(16, 6, 70)
+}
+p3
+{
+     font-family: 'sans serif';
+     font-weight: 500;
+     background-image: url("img/flowers.jpg")
+     background-position: bottom;
+}
